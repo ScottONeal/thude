@@ -1,0 +1,163 @@
+
+RCLootCouncilDB = {
+	["global"] = {
+		["localizedSubTypes"] = {
+			["Two-Handed Maces"] = "Two-Handed Maces",
+			["Artifact Relic"] = "Artifact Relic",
+			["One-Handed Swords"] = "One-Handed Swords",
+			["Staves"] = "Staves",
+			["Crossbows"] = "Crossbows",
+			["Plate"] = "Plate",
+			["One-Handed Maces"] = "One-Handed Maces",
+			["created"] = true,
+			["Shields"] = "Shields",
+			["Polearms"] = "Polearms",
+			["Daggers"] = "Daggers",
+			["Bows"] = "Bows",
+			["Two-Handed Swords"] = "Two-Handed Swords",
+			["One-Handed Axes"] = "One-Handed Axes",
+			["Leather"] = "Leather",
+			["Cloth"] = "Cloth",
+			["Guns"] = "Guns",
+			["Fist Weapons"] = "Fist Weapons",
+			["Mail"] = "Mail",
+			["Wands"] = "Wands",
+			["Warglaives"] = "Warglaives",
+			["Two-Handed Axes"] = "Two-Handed Axes",
+		},
+		["log"] = {
+			"10/10/16", -- [1]
+			"09:29:43 - Logged In", -- [2]
+			"09:29:43 - ML initialized!", -- [3]
+			"09:29:50 - Thude-BleedingHollow (2.1.4) (nil)", -- [4]
+			"09:29:50 - We didn't find: (One-Handed Axes) (128196)", -- [5]
+			"09:29:50 - Event: (PLAYER_ENTERING_WORLD)", -- [6]
+			"09:29:50 - GetML()", -- [7]
+			"09:29:50 - LootMethod =  (personalloot)", -- [8]
+			"09:29:50 - Resetting council as we have a new ML!", -- [9]
+			"09:29:50 - GetPlayersGuildRank()", -- [10]
+			"09:29:50 - Found Guild Rank: Initiate", -- [11]
+			"09:29:50 - Comm received: (^1^SverTest^T^N1^S2.1.4^t^^) (from:) (Thude) (distri:) (GUILD)", -- [12]
+			"09:29:51 - Timer LocalizeSubTypes passed", -- [13]
+			"09:29:51 - Found One-Handed Axes localized as: One-Handed Axes", -- [14]
+			"09:29:51 - Found Artifact Relic localized as: Artifact Relic", -- [15]
+			"09:29:51 - Found One-Handed Swords localized as: One-Handed Swords", -- [16]
+			"09:29:51 - Found Staves localized as: Staves", -- [17]
+			"09:29:51 - Found Crossbows localized as: Crossbows", -- [18]
+			"09:29:51 - Found Plate localized as: Plate", -- [19]
+			"09:29:51 - Found One-Handed Maces localized as: One-Handed Maces", -- [20]
+			"09:29:51 - Found Warglaives localized as: Warglaives", -- [21]
+			"09:29:51 - Found Shields localized as: Shields", -- [22]
+			"09:29:51 - Found Polearms localized as: Polearms", -- [23]
+			"09:29:51 - Found Bows localized as: Bows", -- [24]
+			"09:29:51 - Found Two-Handed Swords localized as: Two-Handed Swords", -- [25]
+			"09:29:51 - Found Two-Handed Maces localized as: Two-Handed Maces", -- [26]
+			"09:29:51 - Found Leather localized as: Leather", -- [27]
+			"09:29:51 - Found Mail localized as: Mail", -- [28]
+			"09:29:51 - Found Guns localized as: Guns", -- [29]
+			"09:29:51 - Found Fist Weapons localized as: Fist Weapons", -- [30]
+			"09:29:51 - Found Cloth localized as: Cloth", -- [31]
+			"09:29:51 - Found Wands localized as: Wands", -- [32]
+			"09:29:51 - Found Daggers localized as: Daggers", -- [33]
+			"09:29:51 - Found Two-Handed Axes localized as: Two-Handed Axes", -- [34]
+			"09:31:15 - Event: (PARTY_LOOT_METHOD_CHANGED)", -- [35]
+			"09:31:15 - GetML()", -- [36]
+			"09:31:15 - LootMethod =  (personalloot)", -- [37]
+			"09:31:15 - Resetting council as we have a new ML!", -- [38]
+			"09:36:18 - Event: (RAID_INSTANCE_WELCOME) (Court of Stars (Mythic)) (91421) (0) (0)", -- [39]
+			"09:36:18 - Event: (PLAYER_ENTERING_WORLD)", -- [40]
+			"09:36:18 - GetML()", -- [41]
+			"09:36:18 - LootMethod =  (personalloot)", -- [42]
+			"09:36:18 - Resetting council as we have a new ML!", -- [43]
+			"09:53:07 - Event: (PLAYER_ENTERING_WORLD)", -- [44]
+			"09:53:07 - GetML()", -- [45]
+			"09:53:07 - LootMethod =  (personalloot)", -- [46]
+			"09:53:07 - Resetting council as we have a new ML!", -- [47]
+			"10:02:26 - Event: (PLAYER_ENTERING_WORLD)", -- [48]
+			"10:02:26 - GetML()", -- [49]
+			"10:02:26 - LootMethod =  (personalloot)", -- [50]
+			"10:02:26 - Resetting council as we have a new ML!", -- [51]
+			"10:17:18 - Event: (PARTY_LOOT_METHOD_CHANGED)", -- [52]
+			"10:17:18 - GetML()", -- [53]
+			"10:17:18 - LootMethod =  (personalloot)", -- [54]
+			"10:17:18 - Resetting council as we have a new ML!", -- [55]
+			"10:17:22 - Event: (PLAYER_ENTERING_WORLD)", -- [56]
+			"10:17:22 - GetML()", -- [57]
+			"10:17:22 - LootMethod =  (personalloot)", -- [58]
+			"10:17:22 - Resetting council as we have a new ML!", -- [59]
+			"10:55:34 - Event: (PLAYER_ENTERING_WORLD)", -- [60]
+			"10:55:34 - GetML()", -- [61]
+			"10:55:34 - LootMethod =  (personalloot)", -- [62]
+			"10:55:34 - Resetting council as we have a new ML!", -- [63]
+			"10:56:03 - Event: (PARTY_LOOT_METHOD_CHANGED)", -- [64]
+			"10:56:03 - GetML()", -- [65]
+			"10:56:03 - LootMethod =  (personalloot)", -- [66]
+			"10:56:03 - Resetting council as we have a new ML!", -- [67]
+			"10:56:05 - Event: (RAID_INSTANCE_WELCOME) (Eye of Azshara (Heroic)) (234) (0) (0)", -- [68]
+			"10:56:06 - Event: (PLAYER_ENTERING_WORLD)", -- [69]
+			"10:56:06 - GetML()", -- [70]
+			"10:56:06 - LootMethod =  (personalloot)", -- [71]
+			"10:56:06 - Resetting council as we have a new ML!", -- [72]
+			"11:00:02 - Event: (PLAYER_ENTERING_WORLD)", -- [73]
+			"11:00:02 - GetML()", -- [74]
+			"11:00:02 - LootMethod =  (personalloot)", -- [75]
+			"11:00:02 - Resetting council as we have a new ML!", -- [76]
+			"11:03:37 - Event: (PLAYER_ENTERING_WORLD)", -- [77]
+			"11:03:37 - GetML()", -- [78]
+			"11:03:37 - LootMethod =  (personalloot)", -- [79]
+			"11:03:37 - Resetting council as we have a new ML!", -- [80]
+			"11:39:33 - Event: (PARTY_LOOT_METHOD_CHANGED)", -- [81]
+			"11:39:33 - GetML()", -- [82]
+			"11:39:33 - LootMethod =  (personalloot)", -- [83]
+			"11:39:33 - Resetting council as we have a new ML!", -- [84]
+			"11:46:36 - Event: (PLAYER_ENTERING_WORLD)", -- [85]
+			"11:46:36 - GetML()", -- [86]
+			"11:46:36 - LootMethod =  (personalloot)", -- [87]
+			"11:46:36 - Resetting council as we have a new ML!", -- [88]
+			"11:47:42 - Event: (PLAYER_ENTERING_WORLD)", -- [89]
+			"11:47:42 - GetML()", -- [90]
+			"11:47:42 - LootMethod =  (personalloot)", -- [91]
+			"11:47:42 - Resetting council as we have a new ML!", -- [92]
+			"11:50:07 - Event: (PLAYER_ENTERING_WORLD)", -- [93]
+			"11:50:07 - GetML()", -- [94]
+			"11:50:07 - LootMethod =  (personalloot)", -- [95]
+			"11:50:07 - Resetting council as we have a new ML!", -- [96]
+			"11:50:36 - Event: (PARTY_LOOT_METHOD_CHANGED)", -- [97]
+			"11:50:36 - GetML()", -- [98]
+			"11:50:36 - LootMethod =  (personalloot)", -- [99]
+			"11:50:36 - Resetting council as we have a new ML!", -- [100]
+			"11:50:39 - Event: (RAID_INSTANCE_WELCOME) (Eye of Azshara (Heroic)) (83360) (0) (0)", -- [101]
+			"11:50:39 - Event: (PLAYER_ENTERING_WORLD)", -- [102]
+			"11:50:39 - GetML()", -- [103]
+			"11:50:39 - LootMethod =  (personalloot)", -- [104]
+			"11:50:39 - Resetting council as we have a new ML!", -- [105]
+			"12:06:44 - Event: (PLAYER_ENTERING_WORLD)", -- [106]
+			"12:06:44 - GetML()", -- [107]
+			"12:06:44 - LootMethod =  (personalloot)", -- [108]
+			"12:06:44 - Resetting council as we have a new ML!", -- [109]
+		},
+		["version"] = "2.1.4",
+	},
+	["profileKeys"] = {
+		["Thude - Bleeding Hollow"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["UI"] = {
+				["default"] = {
+					["background"] = "Blizzard Garrison Background 2",
+					["border"] = "Blizzard Dialog Gold",
+				},
+				["lootframe"] = {
+					["background"] = "Blizzard Garrison Background 2",
+					["border"] = "Blizzard Dialog Gold",
+				},
+			},
+		},
+	},
+}
+RCLootCouncilLootDB = {
+	["profileKeys"] = {
+		["Thude - Bleeding Hollow"] = "Thude - Bleeding Hollow",
+	},
+}

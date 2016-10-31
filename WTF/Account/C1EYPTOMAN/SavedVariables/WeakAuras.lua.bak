@@ -1,0 +1,25 @@
+
+WeakAurasSaved = {
+	["dynamicIconCache"] = {
+		["Broadsides"] = {
+			[193356] = "Interface\\Icons\\ability_rogue_rollthebones07",
+		},
+		["Shark Infested Waters"] = {
+			[193357] = "Interface\\Icons\\ability_rogue_rollthebones03",
+		},
+		["Jolly Roger"] = {
+			[199603] = "Interface\\Icons\\ability_rogue_rollthebones01",
+		},
+	},
+	["login_squelch_time"] = 10,
+	["registered"] = {
+	},
+	["frame"] = {
+		["xOffset"] = -115.834716796875,
+		["height"] = 492,
+		["width"] = 629.999938964844,
+		["yOffset"] = -437.333251953125,
+	},
+	["displays"] = {
+	},
+}

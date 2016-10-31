@@ -1,0 +1,8 @@
+
+GoldSave = {
+	["Thude_Bleeding Hollow::Horde"] = {
+		["show"] = true,
+		["name"] = "Thude",
+		["gold"] = 226362252,
+	},
+}

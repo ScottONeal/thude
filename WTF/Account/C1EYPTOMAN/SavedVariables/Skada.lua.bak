@@ -1,0 +1,18 @@
+
+SkadaDB = {
+	["profileKeys"] = {
+		["Thude - Bleeding Hollow"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["windows"] = {
+				{
+					["y"] = 5.00073051452637,
+					["mode"] = "DPS",
+					["point"] = "BOTTOMRIGHT",
+					["x"] = -88.3341064453125,
+				}, -- [1]
+			},
+		},
+	},
+}

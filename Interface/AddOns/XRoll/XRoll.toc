@@ -1,0 +1,9 @@
+## Interface: 70000
+## Title: |cFFFFFFFFX|r|cFFFF8C00R|r|cFFFFFFFFoll|r
+## Notes: buffs Roll The Bones Outlaw
+## Author: Ninvisible, Archimonde_EU
+## Version: 5.0.1
+## SavedVariables: XRollPosDB
+## LoadManagers: AddonLoader
+
+XRoll.lua

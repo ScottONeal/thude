@@ -1,0 +1,182 @@
+
+WQTrackerDB = {
+	["profileKeys"] = {
+		["Thude - Bleeding Hollow"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["AlertTutorialStep"] = 5,
+			["GotTutorial"] = true,
+			["quests_tracked"] = {
+				["Player-73-0ABF2543"] = {
+				},
+			},
+			["quests_all_characters"] = {
+				["Player-73-0ABF2543"] = {
+					[42148] = {
+						["expireAt"] = 1477234881,
+						["rewardAmount"] = "12",
+						["rewardTexture"] = 413584,
+					},
+					[42025] = {
+						["expireAt"] = 1477191621,
+						["rewardAmount"] = "|cff2292FF805",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
+					},
+					[42026] = {
+						["expireAt"] = 1477256481,
+						["rewardAmount"] = 805,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[43641] = {
+						["expireAt"] = 1477494081,
+						["rewardAmount"] = "|cffc557FF840",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Belt_15",
+					},
+					[41844] = {
+						["expireAt"] = 1477191681,
+						["rewardAmount"] = "|cff2292FF825",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Pants_08",
+					},
+					[43767] = {
+						["expireAt"] = 1477364481,
+						["rewardAmount"] = "|cff2292FF830",
+						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
+					},
+					[41227] = {
+						["expireAt"] = 1477234881,
+						["rewardAmount"] = "|cff2292FF805",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Misc_Cape_19",
+					},
+					[42623] = {
+						["expireAt"] = 1477234881,
+						["rewardAmount"] = "1",
+						["rewardTexture"] = 1417744,
+					},
+					[42781] = {
+						["expireAt"] = 1477321281,
+						["rewardAmount"] = 1500,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[41821] = {
+						["expireAt"] = 1477234881,
+						["rewardAmount"] = "|cffc557FF835",
+						["rewardTexture"] = "Interface\\ICONS\\inv_misc_enchantedpearlE",
+					},
+					[43951] = {
+						["expireAt"] = 1477191621,
+						["rewardAmount"] = 940,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[40925] = {
+						["expireAt"] = 1477213221,
+						["rewardAmount"] = "1",
+						["rewardTexture"] = 1417744,
+					},
+					[42150] = {
+						["expireAt"] = 1477256421,
+						["rewardAmount"] = 655,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[43630] = {
+						["expireAt"] = 1477256481,
+						["rewardAmount"] = 1300,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[43091] = {
+						["expireAt"] = 1477407681,
+						["rewardAmount"] = 1750,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[41657] = {
+						["expireAt"] = 1477256481,
+						["rewardAmount"] = "30",
+						["rewardTexture"] = 1387616,
+					},
+					[41862] = {
+						["expireAt"] = 1477234881,
+						["rewardAmount"] = 375,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[44002] = {
+						["expireAt"] = 1477234881,
+						["rewardAmount"] = 770,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[44304] = {
+						["expireAt"] = 1477213281,
+						["rewardAmount"] = "|cff2292FF825",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Shoulder_25",
+					},
+					[42795] = {
+						["expireAt"] = 1477234881,
+						["rewardAmount"] = 695,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[42506] = {
+						["expireAt"] = 1477213281,
+						["rewardAmount"] = "|cff2292FF830",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Bracer_07",
+					},
+					[41351] = {
+						["expireAt"] = 1477191681,
+						["rewardAmount"] = "3",
+						["rewardTexture"] = 1417744,
+					},
+				},
+			},
+			["TutorialTaxyMap"] = true,
+			["player_names"] = {
+				["Player-73-0ABF2543"] = {
+					["class"] = "ROGUE",
+					["name"] = "Thude",
+					["realm"] = "Bleeding Hollow",
+				},
+			},
+			["history"] = {
+				["period"] = {
+					["global"] = {
+						["161022"] = {
+							["quest"] = 3,
+							["resource"] = 1090,
+						},
+					},
+					["character"] = {
+						["Player-73-0ABF2543"] = {
+							["161022"] = {
+								["quest"] = 3,
+								["resource"] = 1090,
+							},
+						},
+					},
+				},
+				["quest"] = {
+					["global"] = {
+						[42178] = 1,
+						["total"] = 3,
+						[41950] = 1,
+						[43777] = 1,
+					},
+					["character"] = {
+						["Player-73-0ABF2543"] = {
+							[42178] = 1,
+							["total"] = 3,
+							[41950] = 1,
+							[43777] = 1,
+						},
+					},
+				},
+				["reward"] = {
+					["global"] = {
+						["resource"] = 1090,
+					},
+					["character"] = {
+						["Player-73-0ABF2543"] = {
+							["resource"] = 1090,
+						},
+					},
+				},
+			},
+		},
+	},
+}
